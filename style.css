@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('img/tim-mossholder-07uiqD9LS6U-1920-1280.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+main,
+#content {
+    width: 100%;
+    height: 100%;
+}
+
+#content {
+    border: 0;
+    padding: 50px;
+    background-color: transparent;
+    color: #fff;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 80px;
+}
